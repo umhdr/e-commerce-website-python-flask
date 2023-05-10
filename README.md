@@ -1,5 +1,6 @@
 # e-commerce-website-python-flask
 This project is an e-commerce website built using Python and Flask. It includes APIs for CRUD operations on customers and products, as well as an endpoint for making a product active/inactive.
+
 **E-commerce Website**
 This is an e-commerce website built using Python and Flask. It includes APIs for CRUD operations on customers and products, as well as an endpoint for making a product active/inactive. The project uses a MySQL database to store customer and product information.
 
@@ -7,8 +8,6 @@ This is an e-commerce website built using Python and Flask. It includes APIs for
 To install and run this project on a local machine, follow these steps:
 
 Clone the repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
-Create a MySQL database and configure the database credentials in config.py.
 Run the application using python main.py.
 
 **Usage**
